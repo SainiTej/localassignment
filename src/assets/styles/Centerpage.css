@@ -1,11 +1,13 @@
 .centerpagewhite{
     position:absolute;
     width: 1400px;
-    height: 1430px;
+    height: 1680px;
     background-color: white;
     top: 134px;
     left: 160px;
     text-align:justify;
+    box-shadow:1px 1px  lightgrey;
+    border-radius: 10px;
 }
 
 .headSection{
@@ -41,4 +43,49 @@
     border-color: lightgray;
     padding-left: 20px;
     font-size: 17px;
+}
+
+.generatesloganbtn{
+    width: 204px;
+    height: 50px;
+    background: #146EB4;
+    border-radius: 4px;
+    margin-top: 48px;
+    color: white;
+    font-size: 18px;
+}
+
+.headHR{
+    margin-top: 48px;
+}
+
+.centerpagehead-btn{
+    display: flex;
+    justify-content: space-between;
+}
+
+.centerpagehead{
+    font-weight: 600;
+    font-size: 25px;
+}
+
+.centerpagebtn{
+    height: 36px;
+    border-color: #146EB4;
+    border-radius: 5px;
+    color: #146EB4;
+    width: 145px;
+    background-color: white;
+    margin-top: 16px;
+
+}
+
+.sloganrow1{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.allcards{
+    margin-top: 40px;
 }

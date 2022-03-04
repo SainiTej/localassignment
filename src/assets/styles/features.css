@@ -1,0 +1,14 @@
+.threefeatures{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    padding-top: 50px;
+    margin-top: 200px;
+    width: 1400px;
+    height: 332px;
+    background-color: rgb(20, 110, 180,0.05);
+}
+
+.featurebox{
+    width: 336px;
+}
