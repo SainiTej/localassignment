@@ -1,0 +1,44 @@
+.centerpagewhite{
+    position:absolute;
+    width: 1400px;
+    height: 1430px;
+    background-color: white;
+    top: 134px;
+    left: 160px;
+    text-align:justify;
+}
+
+.headSection{
+    padding-left: 232px;
+    width: 900px;
+}
+
+.sloganheading{
+    font-size: 45px;
+    padding-top: 64px;
+}
+
+.slogandesc{
+    color: black;
+    font-weight: 300;
+    font-size: 28px;
+}
+
+.inputlabel{
+    font-size: 23px;
+    font-weight: 350;
+}
+
+.sloganform{
+    padding-top: 48px;
+}
+
+.sloganinput{
+    width: 352px;
+    height: 48px;
+    margin-top: 15px;
+    border-radius: 5px;
+    border-color: lightgray;
+    padding-left: 20px;
+    font-size: 17px;
+}

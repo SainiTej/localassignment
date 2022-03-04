@@ -1,0 +1,39 @@
+.headerBox{
+    background-color: #146EB4;
+    position: absolute;
+    width: 1720px;
+    height: 328px;
+    left: 0px;
+    top: 0px;
+    display:flex;
+    justify-content:space-between;
+}
+
+.dukaanLogo{
+    padding-left: 160px;
+    padding-top:23px ;
+}
+
+.headerRightSection{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+    padding-right: 160px;
+    text-align: center;
+}
+
+.signinbutton{
+    padding-right: 32px;
+    font-weight: 300;
+    color: white;
+}
+.pcDownloadButton{
+    background-color: White;
+    color: #146EB4;
+    width: 177px;
+    height: 50px;
+    border-radius: 5px;
+    font-size: 18px;
+    text-align: center;
+    border-color: white;
+}

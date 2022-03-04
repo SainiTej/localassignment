@@ -1,0 +1,40 @@
+.footerBox{
+    position: absolute;
+    height: 283px;
+    width: 1720px;
+    top: 2898px;
+    background-color: #1A181E;
+}
+
+.footerLogo{
+    position: absolute;
+    top: 64px;
+    left: 160px;
+}
+
+.footerColumns{
+   padding-left: 300px;
+   display:flex;
+   justify-content:space-evenly;
+   padding-top: 50px;
+}
+
+h3{
+    color: white;
+   font-weight: 300;
+}
+
+.belowHR{
+    display: flex;
+    justify-content: space-between;
+}
+
+.rightsreserved{
+    font-size: 12px;
+    padding-left: 160px;
+}
+
+.madeinindia{
+    padding-right: 160px;
+    padding-top: 10px;
+}
